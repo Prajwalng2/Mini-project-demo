@@ -8,7 +8,7 @@ currently the chatbot is hosted at : https://hairy-linear-aye-aye.anvil.app/
 
 - **Legal Query Handling**: Provides assistance for legal questions specific to Indian law.
 - **Natural Language Processing**: Utilizes LLaMA 2 for understanding and generating responses in natural language.
-- **Interactive Interface**: Built within a Jupyter Notebook for ease of use and interaction with anvil server.
+- **Interactive Interface**: Built within a Jupyter Notebook for ease of use and interaction with anvil server. 
 
 ## Getting Started
 
